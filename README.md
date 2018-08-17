@@ -61,3 +61,6 @@ Graph: Distribution of training set
 ![image](https://user-images.githubusercontent.com/33734080/44277520-3f1e5700-a24b-11e8-9ed8-fecd00b022ca.png)
 
 Graph: Distribution of testing set
+
+![image](https://user-images.githubusercontent.com/33734080/44277525-4a718280-a24b-11e8-8af5-68a796d0796b.png)
+

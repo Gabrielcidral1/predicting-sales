@@ -5,16 +5,24 @@ The sales team has concerns about ongoing product sales in one of the stores. Sp
 # Assignment objectives
 
 •	Predicting sales of four different product types: PC, Laptops, Netbooks and Smartphones
+
 •	Assessing the impact services reviews and customer reviews have on sales of different product types	
   o	 A chart that displays the impact of customer and service reviews have on sales volume
 
 # Key Findings
 
 •	Product category is not a relevant variable to predict sales volume. 
+
 •	4 star review and positive service review are the best variables to predict sales volume.
+
 •	New potential products have price conflict with the existing ones.
+
 •	As the distribution of sales volume is not normal and the sample is small, the predictions in this report are limited in scope and should be taken just as a reference. In order to have a powerful decision making, it should be combine with a descriptive analysis and a better understanding of the market.
 
 # Preprocessing
 
 ## Impact of product type to predict volume
+
+Before including product type in the variables to predict sales volume, some tests can confirm if the two variables are indeed correlated. The below shows the correlation of the dummy product categories against sales volume. The first conclusion is that there is no correlation, with exception to Game Console. This high correlation is biased as there are only two observations of this product in the existing product list. 
+
+Table: Correlation between product type and volume

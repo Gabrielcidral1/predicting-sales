@@ -50,7 +50,7 @@ There are two outliers, which were excluded from the model as they don’t repre
 
 Graph: Distribution of sales volume
 
-![image](https://user-images.githubusercontent.com/33734080/44277507-30d03b00-a24b-11e8-91f3-f18baf59b8a4.png)
+![image](https://user-images.githubusercontent.com/33734080/44287053-aba94e00-a26b-11e8-98e9-282fdb511acf.png)
 
 ## Creation of training and testing sets
 

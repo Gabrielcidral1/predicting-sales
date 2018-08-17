@@ -27,3 +27,8 @@ Before including product type in the variables to predict sales volume, some tes
 
 Table: Correlation between product type and volume
 
+![image](https://user-images.githubusercontent.com/33734080/44277418-e6e75500-a24a-11e8-9606-282ed54debe5.png)
+
+Also, running a simple decision tree to predict volume, it shows that 4 star review and Positive Review are the most reliable variables, and not the product category.
+
+Decision tree: Relevant variables to predict sales volume

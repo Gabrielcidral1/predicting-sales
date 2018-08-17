@@ -64,3 +64,15 @@ Graph: Distribution of testing set
 
 ![image](https://user-images.githubusercontent.com/33734080/44277525-4a718280-a24b-11e8-8af5-68a796d0796b.png)
 
+# Modeling
+
+Running the models in the training and testing sets, the results are summarized below (direct export from R in appendix):
+Table: R2 per method
+
+Method	R2 – Model	R2 - Predicted	Average R2
+Random Forest	0.935	0.784	0.8595
+Gradient Boosted Machine	0.826	0.790	0.808
+Support Vector Machine	0.768	0.721	0.7445
+Knn	0.924	0.630	0.777
+Linear	0.797	0.729	0.763
+

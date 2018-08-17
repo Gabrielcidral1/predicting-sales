@@ -81,3 +81,23 @@ Linear | 0.797 | 0.729 | 0.763
 The two best models were selected according to the average R2 (Random Forest and Gradient Boosted Machine). They were both applied to the new product list in order to predict sales volume. The final sales volume is an average of both model results.
 
 Table: Rank of best products 
+
+Rank | Product   Type | Product   Num | Price | x4StarReviews | Positive   ServiceReview | Volume   - rf | Volume   - gbm | Volume   - avg
+-- | -- | -- | -- | -- | -- | -- | -- | --
+1 | Netbook | 180 | 329 | 112 | 28 | 1,114 | 1,189 | 1,152
+2 | Smartphone | 194 | 49 | 26 | 14 | 610 | 891 | 750
+3 | PC | 171 | 699 | 26 | 12 | 467 | 811 | 639
+4 | Laptop | 173 | 1,199 | 10 | 11 | 197 | 803 | 500
+5 | Smartphone | 193 | 199 | 26 | 8 | 311 | 401 | 356
+6 | PC | 172 | 860 | 11 | 7 | 118 | 167 | 143
+7 | Smartphone | 196 | 300 | 19 | 5 | 141 | 41 | 91
+8 | Smartphone | 195 | 149 | 8 | 4 | 79 | 82 | 81
+9 | Netbook | 181 | 439 | 18 | 5 | 117 | 32 | 74
+10 | Netbook | 178 | 400 | 8 | 2 | 47 | 54 | 50
+11 | Laptop | 175 | 1,199 | 2 | 2 | 38 | 42 | 40
+12 | Netbook | 183 | 330 | 4 | 1 | 34 | 39 | 36
+13 | Laptop | 176 | 1,999 | 1 | - | 6 | 39 | 23
+
+# Descriptive analysis on product type
+
+Graph: Price comparison of new vs existing products

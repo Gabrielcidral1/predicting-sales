@@ -44,11 +44,16 @@ Also, attributes highly correlated (above 0.85) represents collinearity and can 
 
 The remaining indicators with high correlation to sales volume are: 4 star review and Positive Service Review. 
 
-# Outliers treatment
+## Outliers treatment
 
 There are two outliers, which were excluded from the model as they don’t represent the standard sales behavior. 
 
 Graph: Distribution of sales volume
 
+![image](https://user-images.githubusercontent.com/33734080/44277507-30d03b00-a24b-11e8-91f3-f18baf59b8a4.png)
 
+## Creation of training and testing sets
 
+As the distribution of the sales volume is not normal, the split between training and testing sets could strongly impact and jeopardize the results.  Using the Set.seed() function, several random numbers were tested in order to have a similar training and testing distributions. The final data is displayed below, which still contain differences, but at a low level. 
+
+Graph: Distribution of training set

@@ -58,7 +58,7 @@ As the distribution of the sales volume is not normal, the split between trainin
 
 Graph: Distribution of training set
 
-![image](https://user-images.githubusercontent.com/33734080/44287229-5a4d8e80-a26c-11e8-8107-81d6b0b890b4.png)
+![image](https://user-images.githubusercontent.com/33734080/44287317-ac8eaf80-a26c-11e8-821a-babf13a7629f.png)
 
 Graph: Distribution of testing set
 

@@ -102,7 +102,7 @@ Rank | Product   Type | Product   Num | Price | x4StarReviews | Positive   Servi
 
 Graph: Price comparison of new vs existing products
 
-![image](https://user-images.githubusercontent.com/33734080/44278517-76dace00-a24e-11e8-99a7-3c9dd52b578a.png)
+![image](https://user-images.githubusercontent.com/33734080/44287359-d942c700-a26c-11e8-9d5f-39e645ac6e38.png)
 
 Looking at the graph above, it seems that Blackwell is adding products in the same price range than the current portfolio. The management should assess if it will give more options to clients and increase sales or if it will just create brand cannibalization. 
 On the other hand, when looking at the laptop category, the new product is substantially more expensive than the average. The company should analyze its positioning and evaluate if customers are indeed looking for higher quality product for a higher price. 

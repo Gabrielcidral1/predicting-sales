@@ -40,7 +40,7 @@ Decision tree: Relevant variables to predict sales volume
 5 star review has a perfect correlation to volume. As this is in practice impossible, the former was considered wrong and excluded. 
 Also, attributes highly correlated (above 0.85) represents collinearity and can create noise to the model. 
 
-![image](https://user-images.githubusercontent.com/33734080/44277449-fd8dac00-a24a-11e8-8e85-4dd47a601ba4.png)
+![image](https://user-images.githubusercontent.com/33734080/44287188-2bcfb380-a26c-11e8-854d-bf317011f3bd.png)
 
 The remaining indicators with high correlation to sales volume are: 4 star review and Positive Service Review. 
 

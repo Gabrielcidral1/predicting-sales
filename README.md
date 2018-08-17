@@ -33,7 +33,7 @@ Also, running a simple decision tree to predict volume, it shows that 4 star rev
 
 Decision tree: Relevant variables to predict sales volume
 
-![image](https://user-images.githubusercontent.com/33734080/44277434-f1a1ea00-a24a-11e8-8293-4c99617f7d4e.png)
+![image](https://user-images.githubusercontent.com/33734080/44287155-0cd12180-a26c-11e8-99fd-3f42a99562a2.png)
 
 ## Attributes correlation
 

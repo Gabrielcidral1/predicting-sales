@@ -62,7 +62,7 @@ Graph: Distribution of training set
 
 Graph: Distribution of testing set
 
-![image](https://user-images.githubusercontent.com/33734080/44277525-4a718280-a24b-11e8-8af5-68a796d0796b.png)
+![image](https://user-images.githubusercontent.com/33734080/44287275-7cdfa780-a26c-11e8-8798-44f4e19eeff8.png)
 
 # Modeling
 

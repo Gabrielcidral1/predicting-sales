@@ -32,3 +32,12 @@ Table: Correlation between product type and volume
 Also, running a simple decision tree to predict volume, it shows that 4 star review and Positive Review are the most reliable variables, and not the product category.
 
 Decision tree: Relevant variables to predict sales volume
+
+![image](https://user-images.githubusercontent.com/33734080/44277434-f1a1ea00-a24a-11e8-8293-4c99617f7d4e.png)
+
+## Attributes correlation
+
+5 star review has a perfect correlation to volume. As this is in practice impossible, the former was considered wrong and excluded. 
+Also, attributes highly correlated (above 0.85) represents collinearity and can create noise to the model. 
+
+

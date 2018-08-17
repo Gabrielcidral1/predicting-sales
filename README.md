@@ -26,3 +26,4 @@ The sales team has concerns about ongoing product sales in one of the stores. Sp
 Before including product type in the variables to predict sales volume, some tests can confirm if the two variables are indeed correlated. The below shows the correlation of the dummy product categories against sales volume. The first conclusion is that there is no correlation, with exception to Game Console. This high correlation is biased as there are only two observations of this product in the existing product list. 
 
 Table: Correlation between product type and volume
+

@@ -57,3 +57,7 @@ Graph: Distribution of sales volume
 As the distribution of the sales volume is not normal, the split between training and testing sets could strongly impact and jeopardize the results.  Using the Set.seed() function, several random numbers were tested in order to have a similar training and testing distributions. The final data is displayed below, which still contain differences, but at a low level. 
 
 Graph: Distribution of training set
+
+![image](https://user-images.githubusercontent.com/33734080/44277520-3f1e5700-a24b-11e8-9ed8-fecd00b022ca.png)
+
+Graph: Distribution of testing set

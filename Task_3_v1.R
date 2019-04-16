@@ -5,6 +5,8 @@ existingproductattributes_v1 <- read.xlsx(file = "C:/Users/gabri/Desktop/Ubiqum/
 
 existingproductattributes_v1$BestSellersRank <- NULL
 
+
+
 # Dummy conversion
 
 dummyconversion <- dummyVars("~.", data = existingproductattributes_v1)

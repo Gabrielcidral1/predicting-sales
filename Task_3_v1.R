@@ -1,11 +1,11 @@
-pacman::p_load(xlsx, caret, corrplot, party, rpart, ggplot2, gbm)
+pacman::p_load(xlsx, caret, corrplot, party, rpart, ggplot2, gbm, rstudioapi)
+
+rstudioapi::getActiveDocumentContext()$path
 
 existingproductattributes_v1 <- read.xlsx(file = "C:/Users/gabri/Desktop/Ubiqum/R/Data_Analytics_Predicting_Customer_Preference/Task_3/existingproductattributes_v1.xlsx", 
                                           sheetName = "existingproductattributes")
 
 existingproductattributes_v1$BestSellersRank <- NULL
-
-
 
 # Dummy conversion
 

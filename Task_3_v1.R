@@ -1,11 +1,12 @@
-pacman::p_load(xlsx, caret, corrplot, party, rpart, ggplot2, gbm)
+pacman::p_load(xlsx, caret, corrplot, party, rpart, ggplot2, gbm, rstudioapi)
+
+current_path <- getActiveDocumentContext()$path
+setwd(dirname(current_path))
 
 existingproductattributes_v1 <- read.xlsx(file = "existingproductattributes_v1.xlsx", 
                                           sheetName = "existingproductattributes")
 
 existingproductattributes_v1$BestSellersRank <- NULL
-
-
 
 # Dummy conversion
 

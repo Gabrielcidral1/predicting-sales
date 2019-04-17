@@ -1,6 +1,7 @@
 pacman::p_load(xlsx, caret, corrplot, party, rpart, ggplot2, gbm, rstudioapi)
 
-rstudioapi::getActiveDocumentContext()$path
+current_path <- getActiveDocumentContext()$path
+setwd(dirname(current_path))
 
 existingproductattributes_v1 <- read.xlsx(file = "C:/Users/gabri/Desktop/Ubiqum/R/Data_Analytics_Predicting_Customer_Preference/Task_3/existingproductattributes_v1.xlsx", 
                                           sheetName = "existingproductattributes")
